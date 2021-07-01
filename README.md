@@ -1,16 +1,18 @@
-### Hi there 👋
+# 🚀 Olá mundo, Meu nome e Gustavo
+> Olá, seja vindo a o meu github, eu me chamo Gustavo tenho 16 anos, sou desenvolvedor full-stack mais tenho mais conhecimento sobre back-end, mais estou começando a estudar mais front-end
 
-<!--
-**Gustavo-Silva-01/Gustavo-Silva-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conhecimentos
+<div style="display: flex">
+<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img width="32" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b">
+<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img width="26" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png">
+</div><br>
 
-Here are some ideas to get you started:
+## Contato
+<a href="mailto:gu75834@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Silva-01&show_icons=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Silva-01&layout=compact&langs_count=16")
