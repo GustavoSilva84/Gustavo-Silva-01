@@ -15,7 +15,7 @@
 </div><br>
 
 ## Contato
-<a href="mailto:gu75834@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:fogofracoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-silva-a35b221b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/gustavo_developer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9300c4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
