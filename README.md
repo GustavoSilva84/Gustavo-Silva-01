@@ -14,10 +14,11 @@
 </div><br>
 
 ## Estudando
+<div style="display: flex"> 
 <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png">
 <img width="32" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png">
-<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">
-
+<img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">  
+</div>
 
 ## Contato
 <a href="mailto:fogofracoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
