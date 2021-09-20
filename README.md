@@ -2,7 +2,7 @@
   
 <img width="400" src="https://miro.medium.com/max/724/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-> Olá, seja vindo a o meu github, eu me chamo Gustavo tenho 16 anos, sou desenvolvedor full-stack
+> Olá, seja vindo a o meu github, eu me chamo Gustavo tenho 16 anos, e sou desenvolvedor full-stack
 
 ## Conhecimentos
 <div style="display: flex">
