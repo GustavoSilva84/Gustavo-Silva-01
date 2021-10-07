@@ -16,7 +16,7 @@
 ## Estudando
 <div style="display: flex"> 
   
-<img width="32" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png">
+<img width="48" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png">
 <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png">
 <img width="32" src="https://fei.edu.br/~gwachs/disciplinas/CC4670/slides/Aula05/slides/images/react_native_logo.png">
 <img width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png">  
