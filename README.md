@@ -1,5 +1,3 @@
-# 🚀 Olá mundo, Meu nome e Gustavo
-  
 <img width="400" src="https://firebasestorage.googleapis.com/v0/b/portfolio-8a10e.appspot.com/o/uy87wsyqs7.svg?alt=media&token=b5f3038a-3747-4997-8340-53281bcea676">
 
 > Olá, seja vindo a o meu github, eu me chamo Gustavo tenho 16 anos, e sou desenvolvedor full-stack
